@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm ASK 👋</h1>
+<h1 align="center">Hey, I'm Akshay 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer · EdTech Builder · Product Thinker</b><br/>
